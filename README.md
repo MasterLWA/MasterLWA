@@ -1,4 +1,4 @@
-<h1 align="center">HEllo👋🏼, I'm Lakindu Widuranga Alwis</h1>
+<h1 align="center">Hello👋🏼, I'm Lakindu Widuranga Alwis</h1>
 <h3 align="center">CEO of LWA Technologies / Software Engineering student👨🏻‍💻💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterlwa&label=Profile%20views&color=0e75b6&style=flat" alt="masterlwa" /> </p>
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@teamLWA](https://medium.com/@teamLWA)
 
-- 💬 Ask me about **C++, Boostrap, C# Unity 🚀**
+- 💬 Ask me about **C++, Boostrap, C#, Unity �**
 
 - 📫 How to reach me **lakinduwiduranga@outlook.com**
 
