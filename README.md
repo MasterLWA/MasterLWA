@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lakinduwiduranga@outlook.com**
 
-- ⚡ Fun fact **I generate coffee☕️ into codes👨🏻‍💻**
+- ⚡ Fun fact: **I generate coffee☕️ into codes👨🏻‍💻**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
