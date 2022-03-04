@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/masterlwa" target="blank"><img src="https://img.shields.io/twitter/follow/masterlwa?logo=twitter&style=for-the-badge" alt="masterlwa" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering 💻**
+- 🌱 I’m currently ready my **Software Engineering Degree 💻**
 
 - 📝 I regularly write articles on [https://medium.com/@teamLWA](https://medium.com/@teamLWA)
 
