@@ -18,9 +18,9 @@
 - ⚡ Fun fact: **I generate coffee☕️ into codes👨🏻‍💻**
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 
 
 <h3 align="left">Connect with me:</h3>
