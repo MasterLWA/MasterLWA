@@ -16,7 +16,13 @@
 - 📫 How to reach me **lakinduwiduranga@outlook.com**
 
 - ⚡ Fun fact: **I generate coffee☕️ into codes👨🏻‍💻**
-- 
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/MasterLWA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="masterelwa" height="30" width="40" /></a>
