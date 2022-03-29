@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@teamLWA](https://medium.com/@teamLWA)
 
-- 💬 Ask me about **C++, Boostrap, C#, Unity **
+- 💬 Ask me about **AI, Arudino, Cloud Computing, Game Development **
 
 - 📫 How to reach me **lakinduwiduranga@outlook.com**
 
