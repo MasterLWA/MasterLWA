@@ -19,7 +19,7 @@
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/MasterLWA/Platane/Platane/github-contribution-grid-snake.svg)
-_generated with [Platane/snk](https://github.com/MasterLWA/snk)_
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 
