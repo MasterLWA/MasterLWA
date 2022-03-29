@@ -17,11 +17,7 @@
 
 - ⚡ Fun fact: **I generate coffee☕️ into codes👨🏻‍💻**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v1.1.2
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
