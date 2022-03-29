@@ -1,10 +1,7 @@
-<h1 align="center">Hello👋🏼, I'm Lakindu Widuranga Alwis</h1>
-<h3 align="center">CEO of LWA Technologies / Software Engineering student</h3>
+<h1 align="center">CEO of LWA Technologies / Software Engineering student</h1>
+<h3 align="center">We build Technologies for the Future Gen.🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterlwa&label=Profile%20views&color=0e75b6&style=flat" alt="masterlwa" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/masterlwa" target="blank"><img src="https://img.shields.io/twitter/follow/masterlwa?logo=twitter&style=for-the-badge" alt="masterlwa" /></a> </p>
 
 - 🌱 I’m currently reading my **Software Engineering Degree 💻**
 
