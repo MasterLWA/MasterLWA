@@ -1,5 +1,5 @@
 <h1 align="center">CEO of LWA Technologies / Software Engineering student</h1>
-<h3 align="center">We build Technologies for the Future Gen.🚀</h3>
+<h3 align="center">Build Technologies for the Future Gen.🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterlwa&label=Profile%20views&color=0e75b6&style=flat" alt="masterlwa" /> </p>
 
