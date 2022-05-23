@@ -1,18 +1,7 @@
-<h1 align="center">CEO of LWA Technologies / Software Engineering student</h1>
+
 <h3 align="center">Build Technologies for the Future Gen.🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterlwa&label=Profile%20views&color=0e75b6&style=flat" alt="masterlwa" /> </p>
-
-- 🌱 I’m currently reading my **Software Engineering Degree 💻**
-
-- 📝 I regularly write articles on [https://medium.com/@teamLWA](https://medium.com/@teamLWA)
-
-- 💬 Ask me about **AI, Arudino, Cloud Computing, Game Development **
-
-- 📫 How to reach me **lakinduwiduranga@outlook.com**
-
-- ⚡ Fun fact: **I generate coffee☕️ into codes👨🏻‍💻**
-
 
 
 <img src="https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg" />
