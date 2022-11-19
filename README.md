@@ -17,26 +17,28 @@
 
 
 
-
-<br>
-<br>
-
 [![@masterlwa's Holopin board](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
 
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/masterlwa/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Master LWA's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=masterlwa&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    </a>
 
 
-
+<hr>
 
 [![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterlwa)](https://github.com/msoftware/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterlwa&theme=vue)
 
 
-
+  </p>
+</p>
 </div>
 
 
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
