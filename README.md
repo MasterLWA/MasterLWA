@@ -1,5 +1,5 @@
 
-<h1 align="center">A Geek who living the Open Source Universe👨🏻‍💻</h1>
+<h1 align="center">A Geek who living the Open Source Universe👨🏻‍💻</h1>
 <p align="center">
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:300px;"/>
 </p>
@@ -38,6 +38,11 @@
 </div>
 
 
+<hr>
+<h3 align="center">iSheep who got inspired from Steve Jobs</h3>
+<div align="center">
+<img src="imgs/D395D7B6-333B-435B-B4C8-2ABA2D87154F.jpeg" alt="drawing" style="width:300px;"/>
+</div>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
