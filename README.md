@@ -8,6 +8,7 @@
 
 [![@masterlwa's Holopin board](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
 
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterlwa)](https://github.com/msoftware/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
