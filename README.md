@@ -9,7 +9,17 @@
   <a href="https://www.buymeacoffee.com/lakindu" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
 
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+
+
+
+<br>
+<br>
 
 [![@masterlwa's Holopin board](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
 
@@ -20,6 +30,12 @@
 [![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterlwa)](https://github.com/msoftware/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterlwa&theme=vue)
+
+
+
+</div>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
