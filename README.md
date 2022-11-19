@@ -69,4 +69,4 @@
   <h1 align="center">MasterLWA</h1>
 </div>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=laaco8vlohu9qsibpcwtrjwo5&cover_image=false&theme=default)
+
