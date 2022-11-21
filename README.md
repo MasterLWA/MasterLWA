@@ -1,12 +1,13 @@
+<div id="header" align="center">
+  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="350"/>
+</div>
 
 <h1 align="center">A Geek who living the Open Source Universe👨🏻‍💻</h1>
 <p align="center">
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:300px;"/>
 </p>
 
-<div id="header" align="center">
-  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="650"/>
-</div>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=masterlwa&label=Profile%20views&color=0e75b6&style=flat" alt="masterlwa" /> </p>
