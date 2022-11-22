@@ -1,8 +1,9 @@
-<div id="header" align="center">
-  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="320"/>
-</div>
+
 
 <h1 align="center">A Geek who living the Open Source Universe👨🏻‍💻</h1>
+<div id="header" align="center">
+  <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="320" />
+</div>
 <p align="center">
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:300px;"/>
 </p>
