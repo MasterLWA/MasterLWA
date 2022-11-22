@@ -1,6 +1,6 @@
 
 
-<h1 align="center">A Geek who living the Open Source Universe👨🏻‍💻</h1>
+<h1 align="center">A Geek who living in the Open Source Universe👨🏻‍💻</h1>
 <div id="header" align="center">
   <img src="https://github.com/dinithaw/dinithaw.github.io/blob/main/greetings.gif" width="320" />
 </div>
