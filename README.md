@@ -39,7 +39,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterlwa&theme=vue)
 [![Lakindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=masterlwa&theme=xcode)](https://git.io/masterlwa)
-
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlwa&layout=compact&theme=tokyonight" />
 
   </p>
 </p>
