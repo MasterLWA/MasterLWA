@@ -40,6 +40,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterlwa&theme=vue)
 
+
+
+[![Lakindu Widuranga StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10193493&theme=dark)](https://stackoverflow.com/users/10193493/lakindu-widuranga-alvis)
+
   </p>
 </p>
 </div>
