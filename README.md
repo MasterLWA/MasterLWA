@@ -3,7 +3,7 @@
 <h1 align="center">A Geek who living in the Open Source Universe👨🏻‍💻</h1>
 
 <p align="center">
-<img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:300px;"/>
+<img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:220px;"/>
 </p>
 
 
@@ -31,26 +31,16 @@
     </a>
 
 
-<hr>
-
-[![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterlwa)](https://github.com/msoftware/github-readme-stats)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterlwa&theme=vue)
-
-
-
-[![Lakindu Widuranga StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10193493&theme=dark)](https://stackoverflow.com/users/10193493/lakindu-widuranga-alvis)
 
   </p>
 </p>
 </div>
 
 
-<hr>
-<h3 align="center">iSheep who got inspired from Steve Jobs</h3>
+
 <div align="center">
-<img src="imgs/D395D7B6-333B-435B-B4C8-2ABA2D87154F.jpeg" alt="drawing" style="width:200px;"/>
+<img src="imgs/D395D7B6-333B-435B-B4C8-2ABA2D87154F.jpeg" alt="drawing" style="width:150px;"/>
+  <h3 align="center">iSheep who got inspired from Steve Jobs</h3>
 </div>
 <hr>
 
