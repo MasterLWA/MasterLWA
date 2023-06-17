@@ -41,7 +41,7 @@
 
 <div align="center">
 <img src="imgs/D395D7B6-333B-435B-B4C8-2ABA2D87154F.jpeg" alt="drawing" style="width:150px;"/>
-  <h3 align="center">iSheep who got inspired from Steve Jobs</h3>
+  <h3 align="center">I am an Entrepreneur and an Innovator who got inspired by Steve Jobs</h3>
 </div>
 <hr>
 
