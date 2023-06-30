@@ -3,9 +3,9 @@
 <p align="center">
 <img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:220px;"/>
 </p>
-<p align="center">
-  I am Working with MERN-stack, React-Native, Machine Learning, AI and Python 👨🏻‍💻
-</p>
+<h3 align="center">
+I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
+<h3>
 
 
 
