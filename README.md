@@ -72,3 +72,6 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 -->
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masterlwa&layout=compact)
+
+
+   <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=masterlwa&layout=compact"/> </a>
