@@ -17,12 +17,12 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 <div align="center">
 <img src="https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg" />
 </div>
--->
+
 
 
 [![@masterlwa's Holopin board](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
 
-  
+-->  
 <p align="center">
   <p align="center">
     <a href="https://github.com/masterlwa/github-readme-streak-stats">
@@ -36,12 +36,14 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 </div>
 
 
-
+<!--
 
 <div align="center">
 <img src="imgs/D395D7B6-333B-435B-B4C8-2ABA2D87154F.jpeg" alt="drawing" style="width:150px;"/>
   <h3 align="center">I am an Entrepreneur & an Innovator who got inspired by Steve Jobs</h3>
 </div>
+
+-->
 <hr>
 
 <h3 align="left">Connect with me:</h3>
