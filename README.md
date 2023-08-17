@@ -13,12 +13,11 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 <div align="center">
 </div>
 
-
+<!--
 <div align="center">
 <img src="https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg" />
 </div>
-
-
+-->
 
 
 [![@masterlwa's Holopin board](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
