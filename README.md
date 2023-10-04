@@ -1,8 +1,11 @@
 <h1 align="center">🚀 A Geek who living in the Open Source Universe 👨🏻‍🚀 </h1>
 
 <p align="center">
-<img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:220px;"/>
+  <a href="https://lakinduw.me">
+    <img src="https://octodex.github.com/images/jetpacktocat.png" alt="drawing" style="width:220px;"/>
+  </a>
 </p>
+
 <h3 align="center">
 I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 <h3>
