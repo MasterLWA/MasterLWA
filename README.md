@@ -9,9 +9,6 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=masterlwa&label=Profile%20views&color=0e75b6&style=flat" alt="masterlwa" /> </p>
-<div align="center">
-</div>
 
 <!--
 <div align="center">
