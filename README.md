@@ -20,16 +20,12 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 [![@masterlwa's Holopin board](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
 
 -->  
-<p align="center">
-  <p align="center">
-    <a href="https://github.com/masterlwa/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Master LWA's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=masterlwa&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-    </a>
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=masterlwa&color=green)
+  
+</div>
 
-
-
-  </p>
-</p>
 </div>
 
 
