@@ -26,6 +26,8 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=masterlwa&color=green)
+
+  [![An image of @masterlwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
   
 </div>
 
