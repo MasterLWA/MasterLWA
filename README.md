@@ -72,4 +72,3 @@ I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterlwa&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![An image of @masterlwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/masterlwa)](https://holopin.io/@masterlwa)
