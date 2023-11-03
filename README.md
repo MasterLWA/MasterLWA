@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-I am Working with MERN-stack, React-Native, ML, AI and Python 👨🏻‍💻
+I am Working with MERN-stack, React-Native, TypeScript, Azure, AI and Python 👨🏻‍💻
 <h3>
 
 
